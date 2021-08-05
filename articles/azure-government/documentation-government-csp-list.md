@@ -490,6 +490,7 @@ Below you can find a list of all the authorized Cloud Solution Providers, AOS-G 
 |[Enlighten IT Consulting](https://www.eitccorp.com/)|
 |[F1 Soluitions Inc](https://www.f1networks.com)|
 |[Four Points Technolgy, LLC](https://www.4points.com)|
+|[Golden Five LLC](https://www.goldenfiveconsulting.com/)|
 |[General Dynamics Information Technology](https://www.gdit.com)|
 |[Hypori, Inc.](https://hypori.com/)|
 |[Jackpine Technologies](https://www.jackpinetech.com)|
